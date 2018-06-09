@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "leancloud-storage": "^3.7.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
